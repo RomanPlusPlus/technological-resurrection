@@ -5,13 +5,17 @@ And it will be a good day.
 
 ## History
 
-To the best of my knowledge, the idea was first described in detail by Fyodorov, a 19th century thinker.
+To the best of my knowledge, the idea was first described in detail by [Fyodorov](https://en.wikipedia.org/wiki/Nikolai_Fyodorovich_Fyodorov), a 19th century thinker.
 
 Fyodorov argued that it is our moral duty to save our ancestors from the claws of death, to resurrect every human ever lived. And one day, we’ll have the technology.
 
 If you think that the goal is a bit too ambitious for a 19th century thinker, here is another crazy goal of Fyodorov: to colonize space. 
-His pupil Tsiolkovsky framed it as a scientific problem.
-Von Braun read Tsiolkovsky, and converted the idea into a problem of applied engineering. 
+
+His [pupil](https://ru.wikipedia.org/wiki/%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87#cite_note-18)
+ Tsiolkovsky framed it as a scientific problem.
+
+Von Braun [read](https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky#Legacy) Tsiolkovsky, and converted the idea into a problem of applied engineering. 
+
 And long story short, we now have robots on Mars.
 
 As a side note, some of the biggest achievements of mankind were accomplished by the same procedure:
@@ -26,18 +30,18 @@ As a side note, some of the biggest achievements of mankind were accomplished by
 
 ## Today
 
-The Fyodorov’s idea of technological resurrection is not as popular as space exploration. It was mostly forgotten, and then rediscovered by modern transhumanists (for example, see the excellent works of Alexey Turchin on the topic).
+The Fyodorov’s idea of technological resurrection is not as popular as space exploration. It was mostly forgotten, and then rediscovered by modern transhumanists (for example, see the excellent works of [Alexey Turchin](https://philpapers.org/rec/TURYOL) on the topic).
 
-These days, we routinely resurrect the dead (only a few decades ago, a patient without heartbeat would have been considered legally dead). 
+These days, we routinely resurrect the dead (only a few decades ago, a patient without heartbeat would have been considered [legally dead](https://link.springer.com/chapter/10.1007/978-0-387-72966-4_4)). 
 But the current resurrection tech only works immediately after death, and only under very specific conditions. 
 Cryonics could help in many other cases, but it can’t work without a properly preserved brain.
 An assumption
 
 So, how do we resurrect Benjamin Franklin? Leonardo da Vinci? Archimedes?
 
-There is no law of physics that makes it impossible to recreate the Archimedes’ brain. Even random motions of atoms will recreate it, if you wait long enough.
+There is no law of physics that makes it impossible to recreate the Archimedes’ brain. Even random motions of atoms [will recreate it](https://en.wikipedia.org/wiki/Boltzmann_brain), if you wait long enough.
 
-Let’s assume that the idea of “philosophical zombies” is BS. A precise enough replica of the Archimedes’ brain will indeed generate the Archimedes’ mind, with all the existential bells & whistles. 
+Let’s assume that the idea of [“philosophical zombies”](https://en.wikipedia.org/wiki/Philosophical_zombie) is BS. A precise enough replica of the Archimedes’ brain will indeed generate the Archimedes’ mind, with all the existential bells & whistles. 
 
 If the assumption is correct, then we can bring him back to life by reconstructing his brain, or by directly reconstructing his mind.
 
@@ -47,7 +51,7 @@ Below I present some methods that could achieve that. Of course, all of them are
 
 ### Method #1. Generate all possible human minds
 
-The set of all possible human brains is finite (the Bekenstein Bound provides the absolute upper limit).
+The set of all possible human brains is finite (the [Bekenstein Bound](https://en.wikipedia.org/wiki/Bekenstein_bound) provides the absolute upper limit).
 
 Thus, given enough computational resources, it's possible to generate a list of all possible human minds (in the same sense, as it's possible to generate a list of all 3-digit binary numbers).
 
@@ -106,7 +110,7 @@ This method is closely related to the method #2 ("collect the crumbs"). The idea
 
 ![alt text](pics/4.png)
 
-For example, we might ask the AI to generate all possible minds of 3rd-century BC Greeks who were able to invent the Archimedean spiral. One of the generated minds could be close enough to Archimedes to consider it a success. 
+For example, we might ask the AI to generate all possible minds of 3rd-century BC Greeks who were able to invent the [Archimedean spiral](https://en.wikipedia.org/wiki/Archimedean_spiral). One of the generated minds could be close enough to Archimedes to consider it a success. 
 
 Already, there are AIs that can generate surprisingly realistic human faces (see the image below). Given enough data, maybe we can do the same thing with minds.
 
@@ -140,7 +144,7 @@ This method generates approximate reconstructions. But they could suffice. For e
 
 This method is much more tractable than the full binary enumeration of all possible minds. 
 
-The computational requirements could be greatly reduced if we enumerate only historically accurate minds (e.g. there were no AI researchers in the 3th century BCE). The problem of combining incomplete historical data with enumeration of minds is similar to learning Bayesian networks with missing data, a well developed field that already has some pretty efficient algorithms. 
+The computational requirements could be greatly reduced if we enumerate only historically accurate minds (e.g. there were no AI researchers in the 3th century BCE). The problem of combining incomplete historical data with enumeration of minds is similar to [learning Bayesian networks with missing data](https://web.archive.org/web/20180706014020/https://cs.brown.edu/research/ai/dynamics/tutorial/Documents/GibbsSampling.html), a well developed field that already has some pretty efficient algorithms. 
 
 One could argue that the human mind is nothing like a video game character who has only a limited number of traits. But even in our current minuscule population of 7 billion, there are so many like-minded people making the same life decisions, we must conclude that the number of possible traits is indeed limited.   
 
@@ -164,7 +168,7 @@ But how to handle the people who don’t want to live anymore? Resurrecting them
 In many cases, some combination of these measures will suffice:
 
 - bringing back their beloved ones (we are resurrecting everyone anyway)
-- fixing the underlying organic problems (e.g. their gut microbiome causing suicidal thoughts).
+- fixing the underlying organic problems (e.g. their [gut microbiome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7510518/) causing suicidal thoughts).
 - conducting a comprehensive psychiatric intervention.
 
 But in some cases, none of this will help. How to handle such cases?
