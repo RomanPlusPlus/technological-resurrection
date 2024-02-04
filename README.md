@@ -11,6 +11,8 @@ The essay is currently available in the following languages:
 
 This entire repo, including the text and illustrations, is [released](LICENSE) into the public domain, allowing anyone to reprint, use, copy, modify it without any restrictions. 
 
+If you want to publish it, you may need to use high-res versions of the illustrations. They're located in [this dir](high_res_illustrations). 
+
 Contributions are welcome! Please feel free to translate it into more languages, or contribute in any other way. 
 
 ![alt text](eng/pics/2.png)
